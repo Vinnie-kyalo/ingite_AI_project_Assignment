@@ -1,0 +1,10 @@
+[
+  {
+    "timestamp": "2025-06-10T13:01:23",
+    "message": "Hello, how are you?"
+  },
+  {
+    "timestamp": "2025-06-10T13:02:10",
+    "message": "Tell me a joke."
+  }
+]
